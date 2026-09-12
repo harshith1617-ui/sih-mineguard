@@ -120,7 +120,7 @@ export function CameraPanel({ distance, risk }: { distance: number; risk: RiskLe
       <div className="relative m-3 min-h-[230px] flex-1 overflow-hidden rounded-md border border-line bg-ink-900">
         <div
           className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=800&q=80')" }}
+          style={{ backgroundImage: "url('https://i.pinimg.com/1200x/04/4e/49/044e4932e67c8b062fec0b2096cd84e7.jpg')" }}
         />
         <div className="absolute inset-0 bg-gradient-to-t from-ink-950/70 via-transparent to-ink-950/40" />
         <div className="scan-overlay absolute inset-0" />
